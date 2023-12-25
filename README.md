@@ -1,4 +1,31 @@
-# Initial Commit
-This Web page has HTML, CSS, js file
-![image](https://github.com/isanjeevroy/Food-Website/assets/108814776/7ad0a5a8-34bd-4e0f-8d3c-53fb9a35cce1)
-![image](https://github.com/isanjeevroy/Food-Website/assets/108814776/9cf973db-4b32-4bf0-aec3-2be378c3f227)
+## Overview
+It is a delightful food website where users can explore a variety of mouth-watering recipes and culinary inspirations.
+
+## Features
+- **Recipe Collection:** Browse through a diverse collection of recipes.
+- **Search:** Easily find recipes based on ingredients, cuisine, or dietary preferences.
+- **User Accounts:** Create an account to save your favorite recipes and submit your own.
+- **Community Interaction:** Comment on recipes and share your cooking experiences.
+- **Responsive Design:** Enjoy a seamless experience on desktop and mobile devices.
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/isanjeevroy/food-website.git`
+2. Install dependencies: `npm install`
+3. Run the application: `npm start`
+
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB
+
+## Contributing
+We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback.
+
+## Contact
+If you have any questions, please reach out to us at support@studnhelp.com.
+
+## Screenshot
+![full-page-scrnshot](https://github.com/isanjeevroy/food-website/assets/108814776/a4256231-c944-4fe2-b429-e95d77f39a77)
+
+
+
